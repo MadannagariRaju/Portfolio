@@ -1,0 +1,188 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.box1{
+    border: 2px solid black;
+    display: inline-block;
+    color: white;
+    background-color: #212529;
+    width: 20%;
+    height: 100vh;
+    position: fixed;
+    z-index: 1;
+}
+.raju{
+    max-width: 12rem;
+    max-height: 12rem;
+    border: 0.3rem solid #1873cde0;
+    border-radius: 100%;
+    position: relative;
+    top: 95px;
+    left: 34px;
+}
+.info1{
+    position: relative;
+    top: 112px;
+    left: 106px;
+    padding-top: 8px;
+}
+.info2{
+    position: relative;
+    top: 112px;
+    left:108px;
+    padding-top: 8px;
+}
+.info4{
+    position: relative;
+    top: 112px;
+    left: 87px;
+    padding-top: 8px;
+}
+.info5{
+    position: relative;
+    top: 112px;
+    left: 84px;
+    padding-top: 8px;
+}
+.info6{
+    position: relative;
+    top: 112px;
+    left: 96px;
+    padding-top: 8px;
+}
+a:hover{
+    color: white;
+}
+a{
+    text-decoration: none;
+    font-size: 20px;
+    color: rgb(123, 117, 117);
+}
+.fonts{
+    position:relative;
+    top: 130px;
+    left:83px;
+}
+.f1{
+    padding-right: 12px;
+}
+.box2{
+    background-color: antiquewhite;
+    border: 2px solid white;
+    display: inline-block;
+    width: 80%;
+    margin-left: 275px;
+}
+.raju2{
+    
+   margin-top: 60px;
+    width: 45%;
+    height: 45%;
+    border-radius: 20px;
+}
+#name{
+    font-family: "Just Another Hand", cursive;
+    font-size: 40px;
+    letter-spacing: 0.1rem;
+    margin-top: 10px;
+    color: rgb(5, 5, 49);
+}
+#name1{
+    font-family: "Just Another Hand", cursive;
+    font-size: 20px;
+    letter-spacing: 0.1rem;
+    margin-top: 10px;
+    
+}
+.p1{
+    margin-top: 20px;
+    text-align: center;
+    font-family: 'Tajawal', sans-serif;
+    font-size: medium;
+}
+.p2{
+    line-height: 100px;
+    font-family: 'Permanent Marker', cursive;
+}
+.skil{
+    font-family: "Just Another Hand", cursive;
+    margin-top:20px;
+    margin-bottom: 40px;
+}
+.font{
+    letter-spacing: 20px;
+    position: relative;
+    bottom: 2px;
+    border: 1px solide black;
+}
+.ht{
+    color: orangered;
+}
+.cs{
+    color: skyblue;
+}
+.py{
+    color: rgb(113, 114, 21);
+}
+.ja{
+    color: red;
+}
+.edu{
+    font-family: "Just Another Hand", cursive;
+    margin-top:40px;
+    margin-bottom: 40px;
+}
+.s{
+    border: 1px solid rgb(4, 48, 63);
+    width: 30%;
+    display: inline-block;
+    color: rgb(206, 59, 143);
+    padding-bottom: 20px;
+}
+.s h2 {
+    padding-bottom: 5px;
+}
+.s h4 {
+    padding-bottom: 5px;
+}
+.c{
+    border: 1px solid  rgb(4, 48, 63);
+    width: 30%;
+    display: inline-block;
+    color: rgb(52, 197, 39);
+    padding-bottom: 20px;
+}
+.c h2 {
+    padding-bottom: 5px;
+}
+.c h4 {
+    padding-bottom: 5px;
+}
+.g{
+    border: 1px solid rgb(4, 48, 63);
+    width: 30%;
+    display: inline-block;
+    color: rgb(10, 87, 100);
+    padding-bottom: 20px;
+}
+.g h2{
+    padding-bottom: 5px;
+}
+.g h4{
+    padding-bottom: 5px;
+}
+.cer{
+    font-family: "Just Another Hand", cursive; 
+    margin-bottom: 20px;  
+}
+.foot{
+     
+    background-color: rgb(225, 149, 35);
+}
+.footer{
+    background-color: rgb(16, 58, 172);
+    color: white;
+    font-weight: 100;
+}
